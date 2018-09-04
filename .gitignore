@@ -1,0 +1,5 @@
+venv
+*.pyc
+*.swp
+*sqlite3
+.DS_Store
